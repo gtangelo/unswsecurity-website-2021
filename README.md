@@ -1,4 +1,4 @@
-# SecSoc Website - Gatsby Edition
+# UNSW Security Website - Gatsby Edition
 > **NOTE:** This repository is a copy of the UNSW Security Society website repo. It only contains my contributions made to the society's website up until end of 2021. The most updated version of the website can be found [here](https://unswsecurity.com/).
 
 The UNSW Security Society new website using the Gatsby framework.
