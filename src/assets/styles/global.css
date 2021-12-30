@@ -1,0 +1,37 @@
+:root {
+  --navbar-height: 70px;
+  --footer-height: 50vh;
+  --content-height: calc(100vh - var(--footer-height));
+  --navbar-list-x-padding: 30px;
+  --navbar-list-y-padding: 10px;
+  --section-margin: 60px 0;
+  --black: #1a1a1a;
+  --white: #fff;
+  --tilt: #3bcebf;
+  --tilt-dark: #007869;
+  --tilt-opaque: rgba(50, 180, 165, 0.2);
+}
+
+html,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #fafafa;
+  color: #333;
+  font-family: sans-serif;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.highlight {
+  color: var(--tilt);
+}

@@ -1,0 +1,27 @@
+{
+  "newsletters": [
+    { "title": "21/06/2021 - 21T1 Week 4 Newsletter", "link": "http://eepurl.com/hAntd5" },
+    { "title": "10/03/2021 - 21T1 Week 4 Newsletter", "link": "http://eepurl.com/hsq5P9" },
+    {
+      "title": "18/11/2020 - [SecSoc] 2021 Director Applications OPEN",
+      "link": "http://eepurl.com/hiMuHf"
+    },
+    { "title": "03/11/2020 - [SecSoc] Week 8 T3 Newsletter", "link": "http://eepurl.com/hhCwjD" },
+    { "title": "26/10/2020 - [SecSoc] Week 7 T3 Newsletter", "link": "http://eepurl.com/hgXlF1" },
+    { "title": "20/10/2020 - [SecSoc] Week 6 T3 Newsletter", "link": "http://eepurl.com/hgqFCf" },
+    { "title": "16/10/2020 - [SecSoc] Merch", "link": "http://eepurl.com/hf_Lwn" },
+    { "title": "13/10/2020 - [SecSoc] Week 5 T3 Newsletter", "link": "http://eepurl.com/hfPFY5" },
+    { "title": "07/10/2020 - [SecSoc] Week 4 T3 Newsletter", "link": "http://eepurl.com/he_Fkj" },
+    { "title": "28/09/2020 - [SecSoc] Week 3 T3 Newsletter", "link": "http://eepurl.com/hd_1tT" },
+    { "title": "22/09/2020 - [SecSoc] Week 2 T3 Newsletter", "link": "http://eepurl.com/hdr59n" },
+    { "title": "15/09/2020 - [SecSoc] Week 1 T3 Newsletter", "link": "http://eepurl.com/hcIaDb" },
+    { "title": "04/08/2020 - [SecSoc] Week 10 T2 Newsletter", "link": "http://eepurl.com/g_Ui8v" },
+    { "title": "27/07/2020 - [SecSoc] Week 9 T2 Newsletter", "link": "http://eepurl.com/g_h1RH" },
+    { "title": "22/07/2020 - [SecSoc] Week 8 T2 Newsletter", "link": "http://eepurl.com/g-Std5" },
+    { "title": "15/07/2020 - [SecSoc] Week 7 T2 Newsletter", "link": "http://eepurl.com/g-ed5j" },
+    { "title": "08/07/2020 - [SecSoc] Week 6 T2 Newsletter", "link": "http://eepurl.com/g8J5nn" },
+    { "title": "23/06/2020 - [SecSoc] Week 4 T2 Newsletter", "link": "http://eepurl.com/g7XRdj" },
+    { "title": "15/06/2020 - [SecSoc] Week 3 T2 Newsletter", "link": "http://eepurl.com/g66MyD" },
+    { "title": "08/06/2020 - [SecSoc] Week 2 T2 Newsletter", "link": "http://eepurl.com/g6hDBH" }
+  ]
+}
